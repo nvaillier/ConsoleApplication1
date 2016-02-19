@@ -12,6 +12,12 @@ namespace ConsoleApplication1
             //WriteLine(point.Dist);
 
             //ReadLine();
+
+            //int uneValeur = 0;
+            //uneValeur++;
+            //uneValeur = uneValeur++ + 3;
+            //WriteLine(uneValeur);
+
         }
     }
 
